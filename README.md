@@ -41,7 +41,7 @@ This project implements **Gaussian Discriminant Analysis (GDA)** from scratch to
 
 ![Scatter Plot](Scatter_plot.png)
 ### 📍 1. Distribution of mean radius by Diagnosis  
-![Mean Radius vs count](![image](https://github.com/user-attachments/assets/0cb63098-9bd7-40f0-880c-cae60c01e1f1))
+![Mean Radius vs count](Radius_mean_by_Diagnosis.png))
 
 ### 📍 2. Distribution of mean texture by Diagnosis  
 ![Mean Texture vs count](![image](https://github.com/user-attachments/assets/de6534a1-57dd-4d45-9cec-e5a845de0e6f))
