@@ -44,10 +44,10 @@ This project implements **Gaussian Discriminant Analysis (GDA)** from scratch to
 ![Mean Radius vs count](Radius_mean_by_Diagnosis.png))
 
 ### 📍 2. Distribution of mean texture by Diagnosis  
-![Mean Texture vs count](![image](perimeter_mean_by_diagnosis)
+![Mean Texture vs count](perimeter_mean_by_diagnosis.png)
 
 ### 📍 3. Distribution of mean perimeter by Diagnosisr  
-![Mean Perimeter vs count](texture_mean_by_diagnosis)
+![Mean Perimeter vs count](texture_mean_by_diagnosis.png)
 
 ## Dependencies
 
