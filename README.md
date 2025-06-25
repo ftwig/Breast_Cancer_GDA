@@ -38,7 +38,6 @@ This project implements **Gaussian Discriminant Analysis (GDA)** from scratch to
 
 ---
 ### 📌 Scatter Plot (Feature Distribution)
-Visualizing separation using the first two features (e.g., `mean radius` vs `mean texture`):
 
 ![Scatter Plot](![image](https://github.com/user-attachments/assets/7f5a6b62-ebd7-44b4-9318-23a25257edf5))
 ### 📍 1. Distribution of mean radius by Diagnosis  
