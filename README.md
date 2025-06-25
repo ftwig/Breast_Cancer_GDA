@@ -39,18 +39,15 @@ This project implements **Gaussian Discriminant Analysis (GDA)** from scratch to
 ---
 ### 📌 Scatter Plot (Feature Distribution)
 
-![Scatter Plot](![image](https://github.com/user-attachments/assets/7f5a6b62-ebd7-44b4-9318-23a25257edf5))
+![Scatter Plot](![image](https://github.com/user-attachments/assets/078fae8a-7838-4761-971b-43cf0a735302))
 ### 📍 1. Distribution of mean radius by Diagnosis  
-![Mean Radius vs count](![image](https://github.com/user-attachments/assets/0cb63098-9bd7-40f0-880c-cae60c01e1f1)
-)
+![Mean Radius vs count](![image](https://github.com/user-attachments/assets/0cb63098-9bd7-40f0-880c-cae60c01e1f1))
 
 ### 📍 2. Distribution of mean texture by Diagnosis  
-![Mean Texture vs count](![image](https://github.com/user-attachments/assets/de6534a1-57dd-4d45-9cec-e5a845de0e6f)
-)
+![Mean Texture vs count](![image](https://github.com/user-attachments/assets/de6534a1-57dd-4d45-9cec-e5a845de0e6f))
 
 ### 📍 3. Distribution of mean perimeter by Diagnosisr  
-![Mean Perimeter vs count](![image](https://github.com/user-attachments/assets/108629dc-20ee-4295-9c92-4fb04784d104)
-)
+![Mean Perimeter vs count](![image](https://github.com/user-attachments/assets/108629dc-20ee-4295-9c92-4fb04784d104))
 
 ## Dependencies
 
